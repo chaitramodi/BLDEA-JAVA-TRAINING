@@ -1,7 +1,7 @@
 package com.bldea.shoppingcart;
 import java.util.ArrayList;  
-	import java.util.Scanner;
-	public class More 
+import java.util.Scanner;
+   public class More 
 	{
 		ArrayList<String> PName = new ArrayList<String>();
 		ArrayList<String> PCode = new ArrayList<String>();
